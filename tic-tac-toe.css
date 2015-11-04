@@ -1,0 +1,86 @@
+body {
+	font-family: helvetica;
+	background: black;
+}
+
+h1 {
+	text-align: center;
+	color: #801515;
+	font-size: 100px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	text-decoration: underline;
+}
+
+p {
+	text-align: center;
+	color: orange;
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+button {
+	width: 40%;
+	margin: 0 auto;
+	display: block;
+	background: #801515;
+	color: blanchedalmond;
+	border: 2px solid blanchedalmond;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+table {
+	padding: 5%;
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+}
+
+.ver {
+	border-left: 20px solid #801515;
+	border-right: 20px solid #801515;
+}
+
+.hor {
+	border-top: 20px solid #801515;
+	border-bottom: 20px solid #801515;
+}
+
+
+.x {
+	color: #801515;
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	background-image: url('http://31.media.tumblr.com/f7a3f54eb6c8d0b4903241b38a74adf0/tumblr_n93g1pRl6g1rli7u9o1_500.gif');
+	background-size: cover;
+	background-position: center;
+}
+
+.o {
+	color: #801515;
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	background-image: url('https://twistedsifter.files.wordpress.com/2010/10/big-scary-smile-pumpkin.jpg?w=608&h=560');
+	background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
